@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    text-align: center;
+}
+
+div{
+    margin: auto;
+}
+    
+
+
+.right{
+    top:10px;
+    position: relative;
+    right: 250px;
+    float: right;
+}
+
+h2{
+    color: red;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+
+}
+
+.nav-ele{
+    position: relative;
+    top:10px;
+    margin-left: 45px;
+    color: azure;
+
+    padding: 10px 10px 10px 10px;
+    display: inline;
+}
+
+.ip{
+    width: 300px;
+}
+hr{
+    background-color: brown;
+    height: 10px;
+}
+nav{
+    height: 50px;
+    
+    background-color: brown;
+}
+ul{
+    margin-top: 65px;
+}
+
+section{
+    margin: 0;
+    background-color: green;
+}
+footer{
+    margin: 0%;
+    text-align: center;
+    
+    background-color: rgb(228, 36, 75);
+}
+hr{
+    color: chartreuse;
+}
